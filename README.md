@@ -8,6 +8,8 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
 
+<p align="left"> <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?&style=for-the-badge&logo=Python&logoColor=white /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> </picture> </a></p>
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/e2-e4dd" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> </picture> </a></p>
