@@ -7,7 +7,6 @@
 <p> <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?&style=for-the-badge&logo=Python&logoColor=white /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> </a>
 <a href="https://en.wikipedia.org/wiki/Data_science#:~:text=Data%20science%20is%20multifaceted%20and,analyze%20actual%20phenomena%22%20with%20data." target="_blank"><img alt="DataScience" src="https://img.shields.io/badge/datascience-%2312100E.svg?&style=for-the-badge&logo=datastax&logoColor=white /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> </a>
 </p>
-<p align="left"> <a href="https://en.wikipedia.org/wiki/Data_science#:~:text=Data%20science%20is%20multifaceted%20and,analyze%20actual%20phenomena%22%20with%20data." target="_blank"><img alt="DataScience" src="https://img.shields.io/badge/datascience-%2312100E.svg?&style=for-the-badge&logo=datastax&logoColor=white /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> </picture> </a></p>
 
 ### Socials
 
