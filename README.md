@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img alig src="https://github.com/e2-e4dd/e2-e4dd/blob/main/welcome.gif" />
 </p>
 
