@@ -16,6 +16,5 @@
 
 ### Hi there，I'm Yura 🙋‍♂️
 
-- I'm studying at @SENATOROVAI.
 - Mathematics and data science is an area I'm focusing on right now.
 
